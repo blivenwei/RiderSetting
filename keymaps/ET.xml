@@ -1,6 +1,5 @@
 <keymap version="1" name="ET" parent="ReSharper">
   <action id="$Copy">
-    <keyboard-shortcut first-keystroke="meta c" />
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="$Cut">
@@ -8,7 +7,6 @@
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="$Paste">
-    <keyboard-shortcut first-keystroke="meta v" />
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="$Redo">
@@ -50,7 +48,6 @@
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditSource" />
   <action id="Editor Copy">
-    <keyboard-shortcut first-keystroke="meta c" />
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="Editor Cut">
@@ -58,7 +55,6 @@
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="Editor Paste">
-    <keyboard-shortcut first-keystroke="meta v" />
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="Editor Redo">
@@ -67,6 +63,9 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
     <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="EditorCopy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
