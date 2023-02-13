@@ -16,6 +16,15 @@
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="Extension methods" value="Default" />
+      </map>
+    </option>
+    <option name="visibleMetricsAboveDeclarationCount" value="6" />
+    <option name="visibleMetricsNextToDeclarationCount" value="6" />
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
