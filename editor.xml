@@ -22,7 +22,6 @@
         <entry key="Extension methods" value="Default" />
       </map>
     </option>
-    <option name="enabled" value="false" />
     <option name="visibleMetricsAboveDeclarationCount" value="6" />
     <option name="visibleMetricsNextToDeclarationCount" value="6" />
   </component>
