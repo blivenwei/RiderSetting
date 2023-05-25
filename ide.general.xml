@@ -1,10 +1,10 @@
 <application>
   <component name="GeneralSettings">
+    <option name="showTipsOnStartup" value="false" />
+    <option name="reopenLastProject" value="false" />
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
     <option name="processCloseConfirmation" value="TERMINATE" />
-    <option name="reopenLastProject" value="false" />
-    <option name="showTipsOnStartup" value="false" />
     <option name="supportScreenReaders" value="true" />
   </component>
   <component name="Registry">
@@ -24,6 +24,5 @@
     <entry key="ide.new.project.model" value="false" />
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
-    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
